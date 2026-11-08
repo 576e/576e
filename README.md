@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>From data preparation to clear, useful dashboards</b><br />
-  Sales Analytics · Customer Insights · Market Research
+  Sales Analytics · Customer Insights · IT Operations
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ I build **Power BI** dashboards and analytical reports in **Excel**, from data p
 My experience covers management reporting, sales analytics, customer segmentation, and survey analysis. I focus on clearly defined metrics and reports that answer specific business questions.
 
 - At **EPK Information Technology**, I build reports on Kaiten tasks, prepare reporting for accounting and e-commerce teams, and clarify requirements with internal stakeholders.
-- During my internship at **Paper Planes**, I worked on analytics projects for HyperPC, X5 Group, and Rumyany Karavay.
+- During my internship at **Paper Planes**, I worked on analytics projects for HyperPC and X5 Group.
 - Open to **remote BI Analyst roles**. English: **B2 (Upper-Intermediate)**.
 
 ## Tools & Skills
@@ -55,15 +55,15 @@ A dashboard exploring employee satisfaction and perceptions of the employer: eNP
 
 **[Read the case study →](projects/x5.md)**
 
-### 03 / Rumyany Karavay — Bakery Market Research
+### 03 / EPK IT — Service Desk & Task Analytics
 
-A dashboard exploring bakery customers: purchasing habits, selection criteria, brand awareness, competitors, and product preferences.
+An operational dashboard built from Kaiten exports to analyze incoming requests, completed tasks, turnaround times, overdue work, and task distribution across services and assignees. Includes monthly comparisons and data quality checks.
 
-**Key questions:** Who visits bakeries? What influences their choice? How do preferences vary across cities and customer segments?
+**Key questions:** How do incoming and completed requests compare? Where is overdue work concentrated? How does task volume change across services and assignees?
 
-`Power BI` `Marketing Analytics` `Survey Analysis` `Data Visualization`
+`Power BI` `Power Query` `DAX` `Kaiten` `Service Desk Analytics`
 
-**[Read the case study →](projects/karavai.md)**
+**[Read the case study →](projects/epk-it-kaiten.md)**
 
 ## How I Work
 
