@@ -1,76 +1,76 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Данила Новиков — BI-аналитик. Power BI · SQL · Excel" width="100%" />
+  <img src="assets/header.svg" alt="Danila Novikov — BI Analyst. Power BI · SQL · Excel" width="100%" />
 </p>
 
 <p align="center">
-  <b>От подготовки данных до понятного дашборда</b><br />
-  Продажи · Клиентская аналитика · Маркетинговые исследования
+  <b>From data preparation to clear, useful dashboards</b><br />
+  Sales Analytics · Customer Insights · Market Research
 </p>
 
 <p align="center">
-  <a href="mailto:danila9734@gmail.com">Связаться со мной</a> ·
-  <a href="#проекты">Посмотреть проекты</a>
+  <a href="mailto:danila9734@gmail.com">Get in touch</a> ·
+  <a href="#projects">Explore my projects</a>
 </p>
 
-## Привет, я Данила 👋
+## Hi, I'm Danila 👋
 
-Разрабатываю дашборды **Power BI** и аналитическую отчётность в **Excel**: готовлю данные, строю модели, рассчитываю показатели в DAX и создаю визуализации.
+I build **Power BI** dashboards and analytical reports in **Excel**, from data preparation and modeling to DAX measures and visualizations.
 
-Работаю с управленческой отчётностью, анализом продаж, клиентской сегментацией и опросами. Мне важно, чтобы у каждого показателя было понятное определение, а отчёт помогал отвечать на конкретные вопросы бизнеса.
+My experience covers management reporting, sales analytics, customer segmentation, and survey analysis. I focus on clearly defined metrics and reports that answer specific business questions.
 
-- В **ЕПК-Информационные технологии** разрабатываю отчёты по задачам Kaiten, готовлю отчётность для бухгалтерии и e-commerce, уточняю требования внутренних заказчиков.
-- На стажировке в **Paper Planes** работал над аналитическими проектами HyperPC, X5 Group и «Румяный каравай».
-- Рассматриваю **удалённую работу BI-аналитиком**. Английский — **B2**.
+- At **EPK Information Technology**, I build reports on Kaiten tasks, prepare reporting for accounting and e-commerce teams, and clarify requirements with internal stakeholders.
+- During my internship at **Paper Planes**, I worked on analytics projects for HyperPC, X5 Group, and Rumyany Karavay.
+- Open to **remote BI Analyst roles**. English: **B2 (Upper-Intermediate)**.
 
-## Инструменты и навыки
+## Tools & Skills
 
-| Инструмент | Что делаю |
+| Tool | How I use it |
 | :--- | :--- |
-| **Power BI** | Модели данных, интерактивные дашборды, фильтры и публикация в Power BI Service |
-| **DAX** | Расчёт бизнес-показателей, долей, средних значений и сравнений периодов |
-| **Power Query** | Очистка и преобразование данных, подготовка источников к анализу |
-| **SQL** | Запросы в MS SQL Server и PostgreSQL |
-| **Excel** | Продвинутые формулы, сводные таблицы, Power Query и визуализация |
-| **Качество данных** | Проверка дубликатов, пропусков, ошибок и логики расчётов |
+| **Power BI** | Data models, interactive dashboards, filters, and publishing to Power BI Service |
+| **DAX** | Business metrics, percentages, averages, and period comparisons |
+| **Power Query** | Data cleaning, transformation, and preparation for analysis |
+| **SQL** | Queries in Microsoft SQL Server and PostgreSQL |
+| **Excel** | Advanced formulas, pivot tables, Power Query, and visualization |
+| **Data quality** | Checking duplicates, missing values, errors, and calculation logic |
 
-## Проекты
+## Projects
 
-### 01 / HYPERPC — продажи и клиентская аналитика
+### 01 / HYPERPC — Sales & Customer Analytics
 
-Дашборд для анализа выручки, документов продаж, среднего чека, покупательского поведения и ассортимента. Подготовка данных, модель, расчёты DAX и RFM-сегментация.
+A dashboard covering revenue, sales documents, average transaction value, customer behavior, and product performance. The work includes data preparation, modeling, DAX measures, and RFM segmentation.
 
-**Вопросы:** как меняются продажи, какие покупатели возвращаются и насколько выручка зависит от отдельных товаров?
+**Key questions:** How are sales changing? Which customers return? How concentrated is revenue across products?
 
-`Power BI` `Power Query` `DAX` `RFM` `ABC-анализ`
+`Power BI` `Power Query` `DAX` `RFM` `ABC Analysis`
 
-**[Подробнее о проекте →](projects/hyperpc.md)**
+**[Read the case study →](projects/hyperpc.md)**
 
-### 02 / X5 Group — аналитика опросов сотрудников
+### 02 / X5 Group — Employee Survey Analytics
 
-Дашборд по удовлетворённости и восприятию работодателя: eNPS, условия работы, руководство, корпоративная культура и сравнение подразделений.
+A dashboard exploring employee satisfaction and perceptions of the employer: eNPS, working conditions, management, company culture, and comparisons across departments.
 
-**Вопросы:** как различаются оценки подразделений и какие аспекты работы требуют более внимательного изучения?
+**Key questions:** How do ratings differ across departments? Which aspects of the employee experience deserve further investigation?
 
-`Power BI` `Опросы` `eNPS` `Сегментация`
+`Power BI` `Survey Analysis` `eNPS` `Segmentation`
 
-**[Подробнее о проекте →](projects/x5.md)**
+**[Read the case study →](projects/x5.md)**
 
-### 03 / «Румяный каравай» — маркетинговое исследование
+### 03 / Rumyany Karavay — Bakery Market Research
 
-Дашборд по аудитории пекарен: покупательские привычки, факторы выбора, узнаваемость брендов, конкуренты и предпочтения в ассортименте.
+A dashboard exploring bakery customers: purchasing habits, selection criteria, brand awareness, competitors, and product preferences.
 
-**Вопросы:** кто посещает пекарни, что влияет на выбор и как предпочтения различаются между городами и сегментами?
+**Key questions:** Who visits bakeries? What influences their choice? How do preferences vary across cities and customer segments?
 
-`Power BI` `Маркетинговая аналитика` `Опросы` `Визуализация`
+`Power BI` `Marketing Analytics` `Survey Analysis` `Data Visualization`
 
-**[Подробнее о проекте →](projects/karavai.md)**
+**[Read the case study →](projects/karavai.md)**
 
-## Как я работаю
+## How I Work
 
-**Вопрос бизнеса → проверка данных → модель и расчёты → визуализация → проверка результата.**
+**Business question → data checks → modeling and calculations → visualization → validation.**
 
-Уточняю требования, проверяю смысл метрик и контекст фильтрации, затем собираю отчёт с понятной навигацией. В описаниях проектов показываю задачу, свою роль и аналитическую логику.
+I clarify requirements, check metric definitions and filter context, and build reports with clear navigation. My case studies explain the business question, my contribution, and the reasoning behind the analysis.
 
 ---
 
-**Обсудим задачу или вакансию:** [danila9734@gmail.com](mailto:danila9734@gmail.com)
+**Let's discuss a project or an opportunity:** [danila9734@gmail.com](mailto:danila9734@gmail.com)

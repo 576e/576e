@@ -1,40 +1,40 @@
-# «Румяный каравай» · Маркетинговое исследование
+# Rumyany Karavay · Bakery Market Research
 
-[← К профилю](../README.md)
+[← Back to profile](../README.md)
 
-**Power BI · Исследование аудитории · Опросы · Сегментация**
+**Power BI · Audience Research · Survey Analysis · Segmentation**
 
-## Задача
+## Objective
 
-Систематизировать результаты исследования покупателей пекарен: описать аудиторию, сценарии посещения, факторы выбора, узнаваемость брендов и предпочтения в продукции.
+Organize bakery customer research into a clear view of the audience, visit occasions, selection criteria, brand awareness, and product preferences.
 
-## Мой вклад
+## My Contribution
 
-На стажировке в Paper Planes самостоятельно разработал дашборд по маркетинговому исследованию: аудитория, покупательское поведение, факторы выбора, узнаваемость бренда, конкуренты и восприятие продукции.
+During my internship at Paper Planes, I independently built a market research dashboard covering audience characteristics, purchasing behavior, bakery selection criteria, brand awareness, competitors, and product perception.
 
-## Структура текущего дашборда
+## Current Dashboard
 
-| Страница | Содержание |
+| Page | Content |
 | :--- | :--- |
-| Обзор | Число респондентов, частота посещений, бюджет покупки и оценка свежести |
-| Аудитория | Возраст, пол, род занятий, доход, города и точки опроса |
-| Выбор пекарни | Средняя важность факторов выбора и разброс оценок |
-| Сценарии | Время посещения, место покупки и покупательские ситуации |
-| Бренды | Какие пекарни знают, посещают и считают лучшими |
-| Развитие | Предпочтения по ассортименту и дополнительным удобствам |
-| Кластеры | Размеры сегментов и различия в оценках факторов |
-| Каналы | Источники информации и готовность тратить время на дорогу |
+| Overview | Respondent count, visit frequency, spending budget, and freshness ratings |
+| Audience | Age, gender, occupation, income, cities, and survey locations |
+| Bakery selection | Average importance of selection criteria and variation in ratings |
+| Visit occasions | Visit times, purchase locations, and shopping situations |
+| Brands | Bakeries respondents know, visit, and consider the best |
+| Development opportunities | Preferences for products and additional amenities |
+| Clusters | Segment sizes and differences in factor ratings |
+| Channels | Information sources and willingness to travel |
 
-Фильтры по городу и кластеру позволяют сопоставлять поведение и предпочтения разных групп.
+City and cluster filters support comparisons of behavior and preferences across groups.
 
-## Аналитический подход
+## Analytical Approach
 
-- Разделяю **знание бренда**, **посещение** и **предпочтение**: это разные вопросы исследования и разные показатели.
-- Рассматриваю среднюю важность фактора вместе с разбросом оценок, чтобы замечать неоднородность аудитории.
-- Сравниваю срезы по городам и сегментам. Результаты характеризуют опрошенных респондентов; выводы обо всём рынке требуют оценки репрезентативности выборки.
+- Distinguish **brand awareness**, **visits**, and **preference** as separate survey questions and metrics.
+- Examine average importance alongside variation in ratings to identify differences within the audience.
+- Compare cities and segments. Results describe the surveyed respondents; conclusions about the wider market require an assessment of sample representativeness.
 
-## Результат
+## Outcome
 
-Подготовлен дашборд из восьми тематических страниц, который связывает портрет аудитории с покупательскими привычками, конкурентным окружением и направлениями развития предложения.
+An eight-page dashboard connecting audience characteristics with purchasing habits, the competitive landscape, and opportunities to develop the offering.
 
-Здесь опубликовано описание проекта без исходных анкет и персональных данных респондентов.
+This case study describes the project without publishing source questionnaires or respondents' personal data.

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">Данила Новиков — BI-аналитик</title>
-  <desc id="desc">Power BI, SQL, Excel. Тёмно-синий баннер с абстрактной диаграммой.</desc>
+  <title id="title">Danila Novikov — BI Analyst</title>
+  <desc id="desc">Power BI, SQL, Excel. A navy banner with an abstract chart.</desc>
   <defs>
     <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#101C31"/><stop offset="1" stop-color="#172D46"/></linearGradient>
     <linearGradient id="bar" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#F4CF55"/><stop offset="1" stop-color="#DDAE35"/></linearGradient>
@@ -10,8 +10,8 @@
   <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
   <rect x="48" y="44" width="4" height="26" rx="2" fill="#F4CF55"/>
   <text x="66" y="63" fill="#AFC5DF" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="3">BUSINESS INTELLIGENCE</text>
-  <text x="48" y="138" fill="#F7FAFF" font-family="Segoe UI,Arial,sans-serif" font-size="51" font-weight="700">Данила Новиков</text>
-  <text x="50" y="179" fill="#CCDAEB" font-family="Segoe UI,Arial,sans-serif" font-size="23">BI-аналитик</text>
+  <text x="48" y="138" fill="#F7FAFF" font-family="Segoe UI,Arial,sans-serif" font-size="51" font-weight="700">Danila Novikov</text>
+  <text x="50" y="179" fill="#CCDAEB" font-family="Segoe UI,Arial,sans-serif" font-size="23">BI Analyst</text>
   <g font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">
     <rect x="48" y="218" width="112" height="34" rx="17" fill="#F4CF55"/>
     <text x="104" y="240" text-anchor="middle" fill="#16233A">POWER BI</text>

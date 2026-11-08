@@ -1,30 +1,30 @@
-# HYPERPC · Продажи и клиентская аналитика
+# HYPERPC · Sales & Customer Analytics
 
-[← К профилю](../README.md)
+[← Back to profile](../README.md)
 
-**Power BI · Power Query · DAX · RFM · ABC-анализ**
+**Power BI · Power Query · DAX · RFM · ABC Analysis**
 
-## Задача
+## Objective
 
-Объединить анализ продаж, покупателей и ассортимента в отчёте, который позволяет переходить от общей динамики к отдельным сегментам и товарам.
+Bring sales, customer, and product analysis together in a report that lets users move from overall trends to individual segments and products.
 
-## Мой вклад
+## My Contribution
 
-В рамках стажировки в Paper Planes самостоятельно подготовил данные о продажах и клиентах, построил модель, разработал визуализации и расчёты DAX, включая показатель выручки на клиента и RFM-сегментацию.
+During my internship at Paper Planes, I independently prepared sales and customer data, built the data model, and developed visualizations and DAX measures, including revenue per customer and RFM segmentation.
 
-## Что есть в текущей версии отчёта
+## Current Report
 
-| Раздел | Что можно анализировать |
+| Section | Analysis |
 | :--- | :--- |
-| Обзор бизнеса | Выручку, документы продаж, покупателей, среднюю сумму документа и сравнение периодов |
-| Продажи и документы | Динамику продаж и соотношение документов продаж с заказами покупателей |
-| Покупатели и поведение | Повторные покупки в выбранном периоде и возврат покупателей из предыдущего периода |
-| Продукты и концентрация | Выручку по товарам, вклад Top-10 SKU и ABC-классы |
-| Качество и определения | Полноту идентификаторов, строки с нулевой суммой и определения показателей |
+| Business overview | Revenue, sales documents, customers, average document value, and period comparisons |
+| Sales and documents | Sales trends and the relationship between sales documents and customer orders |
+| Customers and behavior | Repeat purchases within the selected period and returning customers from the previous period |
+| Products and concentration | Revenue by product, the Top 10 SKU share, and ABC classes |
+| Data quality and definitions | Identifier completeness, zero-value rows, and metric definitions |
 
-## Пример логики DAX
+## DAX Example
 
-В модели документ продаж определяется парой «тип документа + номер». Это позволяет различать документы с совпадающими номерами, но разными типами.
+The model identifies a sales document by its type and number. This distinguishes documents that share a number but have different types. The example below retains the original model's table, column, and measure names.
 
 ```dax
 BI Документы продаж =
@@ -40,14 +40,14 @@ BI AOV документа =
 DIVIDE([BI Выручка], [BI Документы продаж])
 ```
 
-## Важные определения
+## Metric Definitions
 
-- **Выручка на покупателя** — выручка, делённая на число покупателей в выбранном контексте. В исходной модели показатель назывался LTV; это историческое среднее, а не прогноз пожизненной ценности клиента.
-- **Повторный покупатель в периоде** — покупатель с двумя и более документами продаж в выбранном периоде. Это определение отличается от удержания между периодами.
-- В текущем отчёте покупатели считаются по наименованию; одноимённые записи могут влиять на результат. Статус данных отдельно отмечает, что первичная сверка продаж не выполнена.
+- **Revenue per customer** is revenue divided by the number of customers in the selected context. Originally labeled LTV in the model, it represents a historical average rather than a prediction of lifetime customer value.
+- **Repeat customers within a period** have two or more sales documents in the selected period. This differs from retention between periods.
+- The current report counts customers by name, so identical names may affect the results. The data status also notes that sales have not yet been reconciled against the primary source.
 
-## Результат
+## Outcome
 
-Подготовлен аналитический отчёт с переходом от общих KPI к поведению покупателей, структуре ассортимента и проверкам качества данных. Его можно использовать для исследования динамики и формирования гипотез; причинный эффект бизнес-решений этим отчётом не измерялся.
+An analytical report connecting headline KPIs with customer behavior, product performance, and data quality checks. It supports trend exploration and hypothesis development; it does not measure the causal impact of business decisions.
 
-Здесь опубликовано описание проекта и пример расчётов без исходных клиентских данных.
+This case study includes the project approach and example calculations, without the underlying customer data.
