@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Данила Новиков — BI-аналитик</title>
+  <desc id="desc">Power BI, SQL, Excel. Тёмно-синий баннер с абстрактной диаграммой.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#101C31"/><stop offset="1" stop-color="#172D46"/></linearGradient>
+    <linearGradient id="bar" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#F4CF55"/><stop offset="1" stop-color="#DDAE35"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ECF3FC" stroke-opacity=".035"/></pattern>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+  <rect x="48" y="44" width="4" height="26" rx="2" fill="#F4CF55"/>
+  <text x="66" y="63" fill="#AFC5DF" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="3">BUSINESS INTELLIGENCE</text>
+  <text x="48" y="138" fill="#F7FAFF" font-family="Segoe UI,Arial,sans-serif" font-size="51" font-weight="700">Данила Новиков</text>
+  <text x="50" y="179" fill="#CCDAEB" font-family="Segoe UI,Arial,sans-serif" font-size="23">BI-аналитик</text>
+  <g font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">
+    <rect x="48" y="218" width="112" height="34" rx="17" fill="#F4CF55"/>
+    <text x="104" y="240" text-anchor="middle" fill="#16233A">POWER BI</text>
+    <rect x="171" y="218" width="78" height="34" rx="17" fill="#263D58"/>
+    <text x="210" y="240" text-anchor="middle" fill="#E2EBF6">SQL</text>
+    <rect x="260" y="218" width="90" height="34" rx="17" fill="#263D58"/>
+    <text x="305" y="240" text-anchor="middle" fill="#E2EBF6">EXCEL</text>
+  </g>
+  <g transform="translate(822 53)">
+    <rect width="324" height="194" rx="14" fill="#102137" stroke="#36506B" stroke-opacity=".65"/>
+    <circle cx="22" cy="20" r="3" fill="#F4CF55"/><circle cx="34" cy="20" r="3" fill="#59728D"/><circle cx="46" cy="20" r="3" fill="#59728D"/>
+    <path d="M24 64H300M24 104H300M24 144H300" stroke="#263D56" stroke-width="1"/>
+    <rect x="30" y="131" width="29" height="39" rx="4" fill="#385B7D"/>
+    <rect x="79" y="110" width="29" height="60" rx="4" fill="#476C8E"/>
+    <rect x="128" y="118" width="29" height="52" rx="4" fill="#557E9F"/>
+    <rect x="177" y="81" width="29" height="89" rx="4" fill="#7399B6"/>
+    <rect x="226" y="56" width="29" height="114" rx="4" fill="url(#bar)"/>
+    <path d="M44 111L93 90L142 98L191 61L240 36" fill="none" stroke="#F4CF55" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="240" cy="36" r="5" fill="#F4CF55"/>
+    <path d="M274 59H298M274 68H291" stroke="#6885A1" stroke-width="3" stroke-linecap="round"/>
+  </g>
+</svg>
